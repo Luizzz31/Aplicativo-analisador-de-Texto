@@ -1,0 +1,1 @@
+# Aplicativo-analisador-de-Texto
